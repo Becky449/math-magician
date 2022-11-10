@@ -57,7 +57,7 @@ npx eslint .
 
 ## Authors
 
-👤 Nejjari Abdelhafid
+👤 Rabecca Nabwire
 
 - GitHub: [@Becky449](https://github.com/Becky449)
 - LinkedIn: [Rabecca Nabwire](https://www.linkedin.com/in/rabeccanabwire//)
@@ -69,7 +69,6 @@ npx eslint .
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Capstone-II/issues).
 
 ## Show your support
 
