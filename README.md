@@ -1,4 +1,4 @@
-
+[
 
 # Math Magician: setup
 
@@ -83,4 +83,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed
+This project is [MIT](LICENSE) licensed](https://github.com/Becky449/math-magician)
